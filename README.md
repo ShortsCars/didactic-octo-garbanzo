@@ -1,5 +1,16 @@
 # didactic-octo-garbanzo
 JS script
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QJSPGWFYV8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QJSPGWFYV8');
+</script>
+
+
 <!-- Google AdSense github-->
 <script src="https://gist.github.com/ShortsCars/eb6cfe966e57236705499ddbc17565f7.js"></script>
 <script src="https://gist.github.com/ShortsCars/664ebd802247341ff468a0668aa97392.js"></script>
