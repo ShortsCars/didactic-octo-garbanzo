@@ -8,8 +8,12 @@ JS script
   gtag('js', new Date());
 
   gtag('config', 'G-QJSPGWFYV8');
+
+  
 </script>
 
+<!-- Google search-->
+<script src="https://gist.github.com/ShortsCars/22f276f6acd89bf0325e01361454a397.js"></script>
 
 <!-- Google AdSense github-->
 <script src="https://gist.github.com/ShortsCars/eb6cfe966e57236705499ddbc17565f7.js"></script>
